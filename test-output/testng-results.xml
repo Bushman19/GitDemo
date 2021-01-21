@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-12T21:10:11 CET" name="Suite" finished-at="2020-12-12T21:10:11 CET" duration-ms="60">
+    <groups>
+    </groups>
+    <test started-at="2020-12-12T21:10:11 CET" name="Test" finished-at="2020-12-12T21:10:11 CET" duration-ms="60">
+      <class name="myTestTutorial.Mavenjava.SeleniumTest">
+        <test-method signature="BrowserAitomation()[pri:0, instance:myTestTutorial.Mavenjava.SeleniumTest@1534f01b]" started-at="2020-12-12T21:10:11 CET" name="BrowserAitomation" finished-at="2020-12-12T21:10:11 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAitomation -->
+        <test-method signature="elementsUI()[pri:0, instance:myTestTutorial.Mavenjava.SeleniumTest@1534f01b]" started-at="2020-12-12T21:10:11 CET" name="elementsUI" finished-at="2020-12-12T21:10:11 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- myTestTutorial.Mavenjava.SeleniumTest -->
+      <class name="myTestTutorial.Mavenjava.AppiumTest">
+        <test-method signature="Test1()[pri:0, instance:myTestTutorial.Mavenjava.AppiumTest@65466a6a]" started-at="2020-12-12T21:10:11 CET" name="Test1" finished-at="2020-12-12T21:10:11 CET" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method signature="Test2()[pri:0, instance:myTestTutorial.Mavenjava.AppiumTest@65466a6a]" started-at="2020-12-12T21:10:11 CET" name="Test2" finished-at="2020-12-12T21:10:11 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+      </class> <!-- myTestTutorial.Mavenjava.AppiumTest -->
+      <class name="myTestTutorial.Mavenjava.ApiTest">
+        <test-method signature="JiraTest()[pri:0, instance:myTestTutorial.Mavenjava.ApiTest@4ddced80]" started-at="2020-12-12T21:10:11 CET" name="JiraTest" finished-at="2020-12-12T21:10:11 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JiraTest -->
+        <test-method signature="TwitterTest()[pri:0, instance:myTestTutorial.Mavenjava.ApiTest@4ddced80]" started-at="2020-12-12T21:10:11 CET" name="TwitterTest" finished-at="2020-12-12T21:10:11 CET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TwitterTest -->
+      </class> <!-- myTestTutorial.Mavenjava.ApiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
