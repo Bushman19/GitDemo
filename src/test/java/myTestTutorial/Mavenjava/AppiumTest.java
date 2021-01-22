@@ -7,6 +7,12 @@ public class AppiumTest {
 	public void Test1()
 	{
 		System.out.println("AppiuferfsemTe");
+		System.out.println("AppiuferfsemTe1");
+		System.out.println("AppiuferfsemTe1");
+		
+			System.out.println("AppiuferfsemTe");
+			System.out.println("AppiuferfsemTe1");
+			System.out.println("AppiuferfsemTe1");
 	}
 	@Test
 	public void Test2()
